@@ -1,0 +1,9 @@
+name: CGNPunishments
+version: 1.0
+author: Tillthen
+main: cgnpunishments.Main
+commands:
+  ban:
+    description: Ban a player
+  unban:
+    description: Unban a player
